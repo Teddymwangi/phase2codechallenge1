@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phase2codechallenge1/static/css/main.e6c13ad2.css",
+    "main.js": "/phase2codechallenge1/static/js/main.48def28e.js",
+    "index.html": "/phase2codechallenge1/index.html",
+    "main.e6c13ad2.css.map": "/phase2codechallenge1/static/css/main.e6c13ad2.css.map",
+    "main.48def28e.js.map": "/phase2codechallenge1/static/js/main.48def28e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.48def28e.js"
+  ]
+}
